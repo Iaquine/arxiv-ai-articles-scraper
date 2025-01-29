@@ -53,21 +53,6 @@ Após a execução, o scraper irá salvar os dados coletados em um arquivo CSV c
 - Link: URL do artigo no Arxiv.
 - Subjects: Assuntos relacionados ao artigo.
 
-## Estrutura do projeto
-
-arxiv-ai-scraper/
-│
-├── data/ # Diretório onde os arquivos CSV serão salvos
-│ └── articles.csv # Arquivo com os dados dos artigos
-│
-├── arxiv_scraper/ # Pacote com o código do scraper
-│ ├── init.py
-│ ├── config.py # Configurações do scraper (ex. BASE_URL)
-│ ├── storage.py # Função para salvar dados em CSV
-│ └── scraper.py # Função principal de scraping
-│
-├── requirements.txt # Arquivo com as dependências do projeto
-└── README.md # Este arquivo
 
 ## Como funciona
 ### Passo 1: Buscar Artigos
