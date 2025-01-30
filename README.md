@@ -10,7 +10,7 @@ Requisitos: Antes de rodar o projeto, certifique-se de que você possui os segui
   - `beautifulsoup4`
   - `pandas`
   
-## Você pode instalar as dependências necessárias utilizando o arquivo `requirements.txt` com o seguinte comando:
+## Você pode instalar as dependências necessárias utilizando o arquivo requirements.txt com o seguinte comando:
 pip install -r requirements.txt
 
 ## Dependências:
